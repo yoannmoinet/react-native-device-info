@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   s.author = 'Rebecca Hughes'
 
-  s.source       = { :git => "https://github.com/rebeccahughes/react-native-device-info#cocoapods" }
+  s.source       = { :git => "https://github.com/rebeccahughes/react-native-device-info#mchinyakov-cocoapo" }
 
   s.source_files  = "RNDeviceInfo/*.{h,m}"
 end
